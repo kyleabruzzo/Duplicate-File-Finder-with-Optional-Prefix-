@@ -25,9 +25,8 @@ To run the script, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Make sure you have Python 3 installed.
-3. Install the required dependencies by running `pip install -r requirements.txt`.
-4. Execute the script by running `python script.py`.
-5. Follow the on-screen instructions to select a directory and search for duplicate files.
+3. Execute the script by running `python main.py`.
+4. Follow the on-screen instructions to select a directory and search for duplicate files.
 
 ## License
 
